@@ -1,4 +1,3 @@
-[dependencies]
 [package]
 name = "distributed-rate-limiter"
 version = "0.1.0"
